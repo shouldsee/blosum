@@ -1,0 +1,4 @@
+[submodule "domutil"]
+	path = domutil
+	url = http://github.com/shouldsee/domutil
+	branch = master
